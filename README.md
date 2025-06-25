@@ -19,4 +19,4 @@
 
 ## 📊 My GitHub Metrics
 
-![Metrics](./metrics.svg)
+![Metrics](./metrics.classic.svg)
