@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zparvez2z">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Parvez+Zamil;Welcome+to+my+GitHub+profile!" alt="Intro Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Parvez+Zamil;Welcome+to+my+GitHub+profile!" alt="Intro Animation" />
   </a>
 </p>
 
