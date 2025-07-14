@@ -10,7 +10,7 @@
 
 - 💼 I’m an ML Dev. in pursuit to transform data into beneficial and actionable knowledge
 - 🔭 I’m currently on the hunt for a role in the data realm
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning [here](https://github.com/zparvez2z/TLDR)
 
 ---
 
